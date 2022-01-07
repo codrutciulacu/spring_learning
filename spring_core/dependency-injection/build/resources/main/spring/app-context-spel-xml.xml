@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="injectSimpleConfig"
+          class="com.codrut.dependency_injection.injection_parameters.xml.InjectSimpleConfig"/>
+    <bean id="injectSimpleSpel"
+          class="com.codrut.dependency_injection.injection_parameters.xml.InjectSimpleSpEL">
+
+        <property name="name" value="#{injectSimpleConfig.name}" />
+        <property name="age" value="#{injectSimpleConfig.age + 1}" />
+        <property name="height" value="#{injectSimpleConfig.height}" />
+        <property name="programmer" value="#{injectSimpleConfig.programmer}" />
+        <property name="ageInSeconds" value="#{injectSimpleConfig.ageInSeconds}" />
+    </bean>
+</beans>

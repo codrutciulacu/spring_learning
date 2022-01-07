@@ -1,0 +1,11 @@
+com/codrut/hooking_into_bean_creation/annotations/SingerWithAnnotation.java
+ com.codrut.hooking_into_bean_creation.annotations.SingerWithAnnotation
+com/codrut/hooking_into_bean_creation/config/SingerConfigDemo.java
+ com.codrut.hooking_into_bean_creation.config.SingerConfigDemo
+ com.codrut.hooking_into_bean_creation.config.SingerConfigDemo$SingerConfig
+com/codrut/hooking_into_bean_creation/interfaces/SingerWithInterface.java
+ com.codrut.hooking_into_bean_creation.interfaces.SingerWithInterface
+com/codrut/hooking_into_bean_creation/config/Singer.java
+ com.codrut.hooking_into_bean_creation.config.Singer
+com/codrut/hooking_into_bean_creation/methods/SingerWithMethod.java
+ com.codrut.hooking_into_bean_creation.methods.SingerWithMethod

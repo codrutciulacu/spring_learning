@@ -1,0 +1,26 @@
+com/codrut/dependency_injection/injection_types/Dependency.java
+ com.codrut.dependency_injection.injection_types.Dependency
+com/codrut/dependency_injection/injection_types/SetterInjection.java
+ com.codrut.dependency_injection.injection_types.SetterInjection
+com/codrut/dependency_injection/injection_parameters/xml/InjectSimple.java
+ com.codrut.dependency_injection.injection_parameters.xml.InjectSimple
+com/codrut/dependency_injection/injection_parameters/xml/InjectSimpleSpEL.java
+ com.codrut.dependency_injection.injection_parameters.xml.InjectSimpleSpEL
+com/codrut/dependency_injection/injection_parameters/annotated/InjectSimpleSpEL.java
+ com.codrut.dependency_injection.injection_parameters.annotated.InjectSimpleSpEL
+com/codrut/dependency_injection/injection_parameters/annotated/InjectSimpleConfig.java
+ com.codrut.dependency_injection.injection_parameters.annotated.InjectSimpleConfig
+com/codrut/dependency_injection/xml_config/Encyclopedia.java
+ com.codrut.dependency_injection.xml_config.Encyclopedia
+com/codrut/dependency_injection/xml_config/BookworkOracle.java
+ com.codrut.dependency_injection.xml_config.BookworkOracle
+com/codrut/dependency_injection/injection_parameters/xml/InjectSimpleConfig.java
+ com.codrut.dependency_injection.injection_parameters.xml.InjectSimpleConfig
+com/codrut/dependency_injection/xml_config/XMLConfigWithBeanFactory.java
+ com.codrut.dependency_injection.xml_config.XMLConfigWithBeanFactory
+com/codrut/dependency_injection/injection_parameters/annotated/InjectSimple.java
+ com.codrut.dependency_injection.injection_parameters.annotated.InjectSimple
+com/codrut/dependency_injection/xml_config/Oracle.java
+ com.codrut.dependency_injection.xml_config.Oracle
+com/codrut/dependency_injection/injection_types/ConstructorInjection.java
+ com.codrut.dependency_injection.injection_types.ConstructorInjection

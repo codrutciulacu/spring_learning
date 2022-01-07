@@ -1,0 +1,6 @@
+rootProject.name = 'SpringExemples'
+
+include 'dependency-lookup'
+include 'dependency-injection'
+include 'hooking-into-bean-creation'
+
